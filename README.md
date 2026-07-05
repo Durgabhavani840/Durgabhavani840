@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Bhavani
 
-<!--
-**Durgabhavani840/Durgabhavani840** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech 3rd Year Student
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Python
+- C
+- Git & GitHub
+- Data Structures & Algorithms (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Python
+- DSA
+- Git & GitHub
+
+## 🚀 Goals
+- Crack a software placement
+- Build real-world projects
+- Contribute to open source
+
+## 📫 Contact
+- GitHub: https://github.com/Durgabhavani840
