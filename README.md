@@ -9,14 +9,14 @@
 - Data Structures & Algorithms (Learning)
 
 ## 🌱 Currently Learning
-- Python
-- DSA
-- Git & GitHub
+- Data Structures & Algorithms
+- Web Development
+- SQL
 
-## 🚀 Goals
+## 🎯 Goals
 - Crack a software placement
 - Build real-world projects
-- Contribute to open source
+- Contribute to Open Source
 
 ## 📫 Contact
 - GitHub: https://github.com/Durgabhavani840
